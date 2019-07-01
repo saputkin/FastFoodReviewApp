@@ -1,4 +1,4 @@
-Fast food review application:
+Fast food review application: 
 
 	To start the server:
 		1. start mongodb using mongod
@@ -7,7 +7,7 @@ Fast food review application:
 
 	Design:
 
-	Relied on the boilerplate
+	Relied on the boilerplate below:
 	URL: https://github.com/majeek/simple-react-redux-reducers-saga-webkit-express-mongoose-boilerplate
 
 	The app has 2 states: user is logged and user is unlogged, we prefred to hold the state and session of the user in the redux store instead of using a cookie or any other header token like "Authorization Token".
