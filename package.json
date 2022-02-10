@@ -89,7 +89,7 @@
     "moment": "^2.24.0",
     "mongodb": "^3.2.6",
     "mongoose": "^5.5.11",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "path": "^0.12.7",
     "primeicons": "^1.0.0",
